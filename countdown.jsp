@@ -8,7 +8,7 @@
             font-family: Arial, sans-serif;
             text-align: center;
             background-color: #eaf4f4;
-            color: #333;
+            color: #383;
             padding: 20px;
         }
         h1 {
